@@ -1,0 +1,6 @@
+consumer_key = 'G2JEJCaT4acMyGhJZV90GfUbl'
+consumer_secret = 'QEkQXG1DWvdLvDwiXdz6Cx4rrrqfyzG9qM3PfGCi5nabNASkrI'
+access_token = '256946497-DOxsYfUkpKp7OQBe2yCjhwclhUNUeviYqTahU5e9'
+access_secret = 'FtOlIAi01cnskWtr9fTxska8eTQFGurj3HGMCkfw0Ps0E'
+datafilename = 'disruptivedigitaldata.json'
+filegraph = 'graph.csv'
